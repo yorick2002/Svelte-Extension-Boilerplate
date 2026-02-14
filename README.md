@@ -20,7 +20,7 @@ cd Svelte-Extension-Boilerplate
 npm install
 ```
 
-# Development 
+## Development 
 
 ```bash
 npm run dev
