@@ -1,0 +1,9 @@
+{
+    "name": "Svelte Extension Template",
+    "description": "Template for browser extensions in Svelte",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+}
